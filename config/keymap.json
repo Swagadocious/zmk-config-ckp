@@ -1,5 +1,5 @@
 {
-  include <dt-bindings/zmk/bt.h>
+  #include <dt-bindings/zmk/bt.h>
   "keyboard": "bt65",
   "keymap": "default",
   "layout": "LAYOUT",
